@@ -39,7 +39,6 @@ def create_project_hash
 end
 
 create_project_hash
-=======
     }
   end
 
@@ -48,4 +47,3 @@ create_project_hash
 end
 
 create_project_hash
->>>>>>> 54c4168ffb709417f28f3254459c21ddb795f768
